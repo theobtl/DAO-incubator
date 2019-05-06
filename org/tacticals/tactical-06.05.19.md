@@ -10,7 +10,9 @@ that are not listed, and rearrange the order of topics in case anyone is worried
 
 ## Discussion
 
-### Theo / EC Grant
+### Theo / EC Grant Lead / I can't make the call, unfortunately, please go ahead and discuss the following without me
+
+The consortium lacks a leading organisation that's experienced with EU grants and has a the bandwidth/team size to finalise a 700K € EU proposal within two weeks. Consensys and GIZ Blockchain Lab are out. Who could jump in as the lead? 
 
 ### Pedro  / Roles, their descriptions and how they get assigned
 
